@@ -6,7 +6,13 @@ This project is the final installment in a three-part SQL-based data analysis wo
 - 📊 [EDA Analysis Project](https://github.com/AHMED-AHMED-KHAMIS/EDA-Analysis-Project): Conducted exploratory data analysis on the warehouse to uncover initial patterns and trends.
 
 ---
+## 📂 Dataset
+The dataset used for all three projects in this repository can be found here:
+🔗 [Dataset Folder](https://github.com/AHMED-AHMED-KHAMIS/sql-data-warehouse-project/tree/main/Dataset)
 
+This folder contains all CSV files and relevant data used across the projects. Feel free to explore or download them for your own analysis.
+
+---
 ## 📌 Project Overview
 
 In this project, I use **Advanced SQL Queries** to derive business insights and perform comprehensive data analysis using the star schema structure in the `gold` layer of the data warehouse.
